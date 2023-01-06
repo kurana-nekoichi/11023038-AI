@@ -1,2 +1,2 @@
-# 11023038-AI
-作業用
+# AI Painting (NovelAI) , 南華大學
+繪畫AI
